@@ -1,0 +1,30 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Santa Fé Role Play official Discord Bot using the TypeScript programming language and library Discord.JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "start": "node dist/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santaferp/bot.git"
+  },
+  "keywords": [],
+  "author": "Luis F. <try.looney@gmail.com> (https://github.com/TryLooney)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santaferp/bot/issues"
+  },
+  "homepage": "https://github.com/santaferp/bot#readme",
+  "dependencies": {
+    "discord.js": "^14.1.3-dev.1659787493-359f688.0",
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.8.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  }
+}
