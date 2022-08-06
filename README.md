@@ -1,2 +1,2 @@
 # bot
-Santa Fé Role Play official Discord Bot using the TypeScript programming language and Library Discord.JS
+Santa Fé Role Play official Discord Bot using the TypeScript programming language and library Discord.JS
